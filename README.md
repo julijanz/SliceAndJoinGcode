@@ -2,6 +2,7 @@
 
 Version: 51
 Date: 13.01.2026
+<h4>Supported Cura version: 5.11.0</h4>
 
 <h2>Overview</h2>
 
