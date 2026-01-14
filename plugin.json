@@ -1,0 +1,14 @@
+{
+    "name": "Slice and Join G-code",
+    "author": "Julijan",
+    "version": "51",
+    "minimum_cura_version": "5.11",
+    "maximum_cura_version": "5.11",
+    "description": "Plugin prepares G-code so that the first layer is printed Outside → Inside, and all other layers Inside → Outside.",
+    "api": 8,
+    "supported_sdk_versions": [
+        "8.0.0",
+        "8.11.0"
+    ],
+    "i18n-catalog": "cura"
+}
